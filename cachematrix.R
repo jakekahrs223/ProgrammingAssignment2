@@ -1,3 +1,5 @@
+#Computes the inverse of a matrix to remove the need to constantly calculate this operation.
+
 #Sets and gets the value of the matrix and then sets and gets the value of the inverse.
 
 makecachematrix <- function(x = Matrix()) {
